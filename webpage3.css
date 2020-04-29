@@ -1,0 +1,127 @@
+
+h1{
+    background-color: #333333;
+    padding:6px;
+    margin:0;
+    width:100%;
+    position:fixed;
+    top:0px;
+    left:0px
+}
+h1 span{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    left: 20px;
+    margin-inline-start:300px;
+    font-size: 25px;
+}
+.head{
+    position: relative;
+    font-family: Arial, Helvetica, sans-serif;
+    z-index: 5;
+}
+.head a[href="webpage1.html"]{
+    text-decoration: none;
+    color: white;
+    font-size: 14px;
+    position: relative;
+    left: 70%;
+    top: 6px;
+}
+
+.head a[href="ayoutube.com/watch?v=mbeT8mpmtHA"]{
+    text-decoration: none;
+    color: white;
+    font-size: 14px;
+    position: relative;
+    left: 73%;
+    top: 6px;
+}
+
+.head a[href="webpage3.html"]{
+    text-decoration: none;
+    color: white;
+    font-size: 14px;
+    position: relative;
+    left: 76%;
+    top: 6px;
+}
+section{
+    margin-inline-start:300px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}
+.button{
+    color: white;
+    background:#333333;
+    border-radius:10px;
+
+    height: 40px;
+    width: 80px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+input{
+    padding-top:3px;
+    padding-bottom:3px;
+}
+.orange{
+    color: #f7be8a;
+}
+section span{
+    font-size: 28px;
+    font-weight: bold;
+}
+footer p.bottom{
+    background:#333333;
+    width: 100%;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    padding-top: 15.5%;
+    margin-block-end: 0;
+} 
+p span{
+    color: #f4f4f4;
+    font-size: 17.5px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    position: fixed;
+    bottom: 110px;
+    /* margin-left: 20px;
+    padding-left: 20 px;; */
+}
+.s1{
+    padding-left: 25%;
+}
+.s2{
+    padding-left: 45%;
+}
+.s3{
+    padding-left: 65%;
+}
+.s4{
+    color: #f4f4f4;
+    font-size: 14px;
+    width: 250px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    position: fixed;
+    bottom: 50px;
+    padding-left: 18%;
+}
+.s5{
+    color: #f4f4f4;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: fixed;
+    bottom: 75px;
+    padding-left: 46%;
+}
+.s6{
+    color: #f4f4f4;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: fixed;
+    bottom: 75px;
+    padding-left: 65.5%;
+}
